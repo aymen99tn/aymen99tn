@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aymen</h1>
+<h2 align="center"> A CyberSecurity Enthusiast </h2>
+	
+ + 🔭 I’m currently Studying Embedded Electronics engineering at ENISo
 
-<!--
-**aymen99tn/aymen99tn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 🌱 I’m currently learning Pentesting, C, C++, JavaScript, STM32
 
-Here are some ideas to get you started:
++ 👯 I’m looking to collaborate on Making the World a better place
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 👨‍💻 All of my projects are available at [my profile](https://github.com/aymen99tn/aymen99tn)
+
++ 📫  reach me at : aymenbasly@gmail.com
+
++ ⚡ Fun fact I might be a hacker Watch out !!
+
+Connect with me:
+[aymen-basly](https://www.linkedin.com/in/aymen-basly-831a09220/)
+
+Languages and Tools:
+arduino bash c cplusplus figma git illustrator linux matlab pandas python rust	
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://www.arduino.cc/)
