@@ -21,3 +21,5 @@ Languages and Tools:
 [![](https://skills.thijs.gg/icons?i=js)](https://www.javascript.com/)
 [![](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/en)
 [![](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
+[![](https://skills.thijs.gg/icons?i=c)](https://www.programiz.com/c-programming)
+[<img src="https://user-images.githubusercontent.com/92263274/249134910-02358bc5-79f9-4af5-9566-30e7d1a81f6d.png" width="80"/>](https://www.kali.org/)
