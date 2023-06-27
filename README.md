@@ -22,4 +22,6 @@ Languages and Tools:
 [![](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/en)
 [![](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
 [![](https://skills.thijs.gg/icons?i=c)](https://www.programiz.com/c-programming)
-[<img src="https://user-images.githubusercontent.com/92263274/249134910-02358bc5-79f9-4af5-9566-30e7d1a81f6d.png" width="80"/>](https://www.kali.org/)
+[<img  src="https://user-images.githubusercontent.com/92263274/249135259-753127b5-aa84-4f9f-94c2-420cba4083f3.png" width="50" />](https://www.programiz.com/cpp-programming)
+[<img  src="https://user-images.githubusercontent.com/92263274/249134910-02358bc5-79f9-4af5-9566-30e7d1a81f6d.png" width="50" />](https://www.kali.org/)
+[<img  src="https://user-images.githubusercontent.com/92263274/249135859-a8661ddc-b149-4934-b7a5-c085960370c3.png" width="50" />](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
