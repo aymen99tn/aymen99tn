@@ -11,7 +11,7 @@
 
 + 📫  reach me at: aymenbasly@gmail.com
 
-+ ⚡ Fun fact I might be a hacker Watch out !!
++ ⚡ Fun fact I might hack you Watch out !!
 
 Connect with me:
 [aymen-basly](https://www.linkedin.com/in/aymen-basly-831a09220/)
