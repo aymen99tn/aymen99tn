@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Aymen</h1>
-<h2 align="center">Embedded systems engineer/CyberSecurity Enthusiast </h2>	
+<h2 align="center"> Security Engineer  </h2>	
 
 + 🌱 I’m currently developing skills in IOT security, Smart grids security, Raspberry PI 
 
