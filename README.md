@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Aymen</h1>
 <h2 align="center"> Security Engineer  </h2>	
 
-+ 🌱 I’m currently developing skills in IOT security, Smart grids security, Raspberry PI 
++ 🌱 I’m currently developing skills in IOT security, Smart grids security,Penetration Testing. 
 
 + 👯 I’m looking to collaborate on Making the World a better place
 
