@@ -21,7 +21,7 @@ Languages and Tools:
 [![](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
 [![](https://skills.thijs.gg/icons?i=c)](https://www.programiz.com/c-programming)
 [![](https://skills.thijs.gg/icons?i=wireshark)](https://www.wireshark.org/)
-
+[![](https://skills.thijs.gg/icons?i=Raspberry PI)](https://www.raspberrypi.com/)
 [<img  src="https://user-images.githubusercontent.com/92263274/249135259-753127b5-aa84-4f9f-94c2-420cba4083f3.png" width="50" />](https://www.programiz.com/cpp-programming)
 [<img  src="https://private-user-images.githubusercontent.com/92263274/341137429-ad7b61be-2cb6-45ce-aafb-14dd37138394.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5OTAyOTUsIm5iZiI6MTczNzk4OTk5NSwicGF0aCI6Ii85MjI2MzI3NC8zNDExMzc0MjktYWQ3YjYxYmUtMmNiNi00NWNlLWFhZmItMTRkZDM3MTM4Mzk0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI3VDE0NTk1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3MGJmZjY0MzI5MzAyZTBhNzFiMTcxZDU0ZjljMGI3OTEyNmY3ZGUyZWVkMWEzM2NkOGE3YzY5YjljZDA2OWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ldKlANy_Vd5Gg3_jPFUzjZngVRlmVOITFa4qsixE_3I" width="50" />](https://www.python.org/)
 [<img  src="https://user-images.githubusercontent.com/92263274/249135859-a8661ddc-b149-4934-b7a5-c085960370c3.png" width="50" />](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
