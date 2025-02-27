@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **I might hack you. Watch out!**
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymen--basly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aymen-basly-831a09220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymen--basly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aymen-basly/)
 
 ### Languages and Tools
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
