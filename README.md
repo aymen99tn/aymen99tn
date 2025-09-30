@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on **Making the World a Better Place**.
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/aymen99tn/aymen99tn).
 - 📫 Reach me at: **aymen.basli@unb.ca**.
-- Free Palestine 🇵🇸 🇵🇸
+- Free Palestine <img width="15" height="15" alt="ps" src="https://github.com/user-attachments/assets/b7f90e78-0605-45bd-9d4b-78f37eeed467" />
+
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aymen--basly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aymen-basly/)
