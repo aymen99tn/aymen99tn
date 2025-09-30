@@ -4,8 +4,8 @@
 - 🌱 I’m currently developing skills in **IoT Security, Smart Grids Security, and Penetration Testing**.
 - 👯 I’m looking to collaborate on **Making the World a Better Place**.
 - 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/aymen99tn/aymen99tn).
-- 📫 Reach me at: **aymenbasly@gmail.com**.
-- ⚡ Fun fact: **I might hack you. Watch out!**
+- 📫 Reach me at: **aymen.basli@unb.ca**.
+- Free Palestine 🇵🇸 🇵🇸
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aymen--basly-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aymen-basly/)
